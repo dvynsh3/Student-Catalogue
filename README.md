@@ -7,7 +7,9 @@
 
 **Try it:** [dvynsh3.github.io/Student-Catalogue](https://dvynsh3.github.io/Student-Catalogue/)  ·  **Status:** Active, in use; no new features planned  ·  **Platform:** Browser, built for Chrome on Android
 
-![Student Catalogue on a phone: a list of cards, each with a cropped student photo, a signature, and roll number and name boxes, with a "4/6 named" counter at the top.](docs/screenshots/student-catalogue-hero.png)
+<p align="center">
+<img src="docs/screenshots/student-catalogue-hero.png" width="32%" alt="Student Catalogue on a phone: a list of cards, each with a cropped student photo, a signature, and roll number and name boxes, with a '4/6 named' counter at the top.">
+</p>
 
 The screenshots use a generated dummy sheet with invented names. No real student data appears anywhere in this repository.
 
@@ -34,8 +36,10 @@ The screenshots use a generated dummy sheet with invented names. No real student
 - Caps every image at a size you set (default 30 KB, range 5 to 500 KB, because portals differ) and applies it to existing crops on request.
 - Exports a ZIP with `photos/`, `signatures/`, `catalogue.csv` and `catalogue.json`, and imports one back as a backup.
 
-![Two cards after typing: roll numbers and names filled in, file names updated, and photo and signature sizes shown in kilobytes.](docs/screenshots/student-catalogue-flow-2.png)
-![The recrop editor: a page photo with green corner handles around the photo and an orange box around the signature.](docs/screenshots/student-catalogue-flow-3.png)
+<p align="center">
+  <img src="docs/screenshots/student-catalogue-flow-2.png" width="32%" alt="Two cards after typing: roll numbers and names filled in, file names updated, and photo and signature sizes shown in kilobytes.">
+  <img src="docs/screenshots/student-catalogue-flow-3.png" width="32%" alt="The recrop editor: a page photo with green corner handles around the photo and an orange box around the signature.">
+</p>
 
 ## Quick start
 1. Open the live page in Chrome, or download [`index.html`](index.html) and open it from your device.
